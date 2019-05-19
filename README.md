@@ -1,1 +1,1 @@
-# web-automation
+# Selenium Web Automation Example
